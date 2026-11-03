@@ -1,0 +1,6 @@
+칼싸움 소리 출처 (모두 CC0, 출처 표기는 의무 아님)
+
+- clash_0~5: "Medieval sound effects - Weapon impacts" — Ben Jaszczak & Brian Nelson
+  https://opengameart.org/node/146863  (Blade on Blade 녹음에서 부딪힘 하나씩 잘라 짧은 잔향을 입힘)
+- clash_6~8, swing_0~3: "20 Sword Sound Effects (Attacks and Clashes)" — StarNinjas
+  https://opengameart.org/content/20-sword-sound-effects-attacks-and-clashes
