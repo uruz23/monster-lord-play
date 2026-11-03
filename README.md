@@ -1,4 +1,4 @@
-# 몬스터 군주 (프로토타입) v0.5.0-a
+# 몬스터 군주 (프로토타입) v0.5.1-a
 
 브라우저로 바로 하기: https://uruz23.github.io/monster-lord-play/
 
